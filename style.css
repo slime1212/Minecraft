@@ -1,0 +1,35 @@
+#c {
+    background-color: #fff;
+    border-width: 10px;
+    border-style: ridge;
+}
+
+.body_background {
+    background-image: url("wallpaper.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+h2 {
+    border-radius: 10px;
+    width: 200px;
+    padding: 5px;
+}
+
+h3 {
+    display: inline-block;
+}
+
+span {
+    color: black;
+}
+
+#head-info {
+    width: 600px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+#colors_ig {
+    background-color: #fff;
+}
